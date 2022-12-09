@@ -1,4 +1,4 @@
-<h1> <img src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/512/external-afro-people-victoruler-linear-colour-victoruler.png" /> Gael wumba buatu </h1>
+<h1> <img src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/512/external-afro-people-victoruler-linear-colour-victoruler.png" width="50" height="60"/> Gael wumba buatu </h1>
 
 <!--
 **gaelWumba/gaelWumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
