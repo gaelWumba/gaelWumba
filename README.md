@@ -1,4 +1,5 @@
-<h1> Gael wumba buatu </h1>
+<h1>![image](https://user-images.githubusercontent.com/91160817/206714424-8eb588ff-e5a5-4b6f-a46f-923844ccff17.png)
+ Gael wumba buatu </h1>
 
 <!--
 **gaelWumba/gaelWumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
