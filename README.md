@@ -3,9 +3,7 @@
   Gael WUMBA BUATU 
 </h1>
 
-<!--
-**gaelWumba/gaelWumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**`Développeur front end`**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
