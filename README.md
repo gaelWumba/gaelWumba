@@ -1,11 +1,12 @@
-<img src="https://static1.shine.com/l/m/images/blog/Reasons-Why-You-Should-Consider-Mobile-Developer-than-Web-Developer.jpg" width="600" height="300" />
+<img src="https://www.tripwire.com/sites/default/files/Foundational-Activities-for-Secure-Software-Development.jpg" width="600" height="300" />
 
-<h1> 
+<div> 
   <img src="https://img.icons8.com/external-victoruler-flat-victoruler/512/external-afro-people-victoruler-flat-victoruler.png" width="40" height="40"/> 
-  Gael WUMBA BUATU
-</h1>
+  <h1 align="left">Gael WUMBA BUATU</h1>
+  <h2 align="right">**`Mobile and front end developper`**</h2>
+</div>
 
-**`Développeur front end`**
+
 
 <p>Bonjour github....<p/>
 - 🔭 I’m currently working on ...
