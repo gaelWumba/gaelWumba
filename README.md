@@ -1,8 +1,8 @@
 <h1> 
-  <img src="https://www.techbooky.com/wp-content/uploads/2020/11/frontend_webdeveloper.jpg" width="40" height="40"/> 
+  <img src="https://img.icons8.com/external-victoruler-flat-victoruler/512/external-afro-people-victoruler-flat-victoruler.png" width="40" height="40"/> 
   Gael WUMBA BUATU
 </h1>
-<img src="https://img.icons8.com/external-victoruler-flat-victoruler/512/external-afro-people-victoruler-flat-victoruler.png" width="600" height="250" />
+<img src="https://www.techbooky.com/wp-content/uploads/2020/11/frontend_webdeveloper.jpg" width="600" height="250" />
 
 **`Mobile and Front end developper`**
 
