@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif" width="500" height="100" />
+<img src="https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif" width="500" height="300" />
 
 <h1> 
   <img src="https://img.icons8.com/external-victoruler-flat-victoruler/512/external-afro-people-victoruler-flat-victoruler.png" width="40" height="40"/> 
