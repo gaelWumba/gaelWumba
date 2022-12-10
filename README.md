@@ -2,7 +2,7 @@
   <img src="https://img.icons8.com/external-victoruler-flat-victoruler/512/external-afro-people-victoruler-flat-victoruler.png" width="40" height="40"/> 
   Gael WUMBA BUATU
 </h1>
-<img src="https://www.tripwire.com/sites/default/files/Foundational-Activities-for-Secure-Software-Development.jpg" width="600" height="300" />
+<img src="https://www.tripwire.com/sites/default/files/Foundational-Activities-for-Secure-Software-Development.jpg" width="600" height="200" />
 
 **`Mobile and Front end developper`**
 
