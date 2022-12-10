@@ -1,8 +1,9 @@
+<img src="https://miro.medium.com/max/1400/1*zlmwtg3fog11YXcU_rvfWA.gif" width="40" height="40" />
+
 <h1> 
   <img src="https://img.icons8.com/external-victoruler-flat-victoruler/512/external-afro-people-victoruler-flat-victoruler.png" width="40" height="40"/> 
   Gael WUMBA BUATU
 </h1>
-<h2 style=”position: absolute; top: 200px">Test</h2>
 
 **`Développeur front end`**
 
