@@ -1,10 +1,9 @@
 <img src="https://www.tripwire.com/sites/default/files/Foundational-Activities-for-Secure-Software-Development.jpg" width="600" height="300" />
-
-<div> 
+**`Mobile and front end developper`**
+<h1> 
   <img src="https://img.icons8.com/external-victoruler-flat-victoruler/512/external-afro-people-victoruler-flat-victoruler.png" width="40" height="40"/> 
-  <h1 align="left">Gael WUMBA BUATU</h1>
-  <h2 align="right">**`Mobile and front end developper`**</h2>
-</div>
+  Gael WUMBA BUATU
+</h1>
 
 
 
