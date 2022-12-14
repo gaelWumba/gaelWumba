@@ -20,8 +20,17 @@
       <a href="https://github.com/search?q=user%3AgaelWumba+framework%3Areact"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="https://github.com/search?q=user%3AgaelWumba+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   </p>
+  
+   <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=vercel&logoColor=yellow"></a>
+  </p>
  </details>
  
+
 
 <p align="right">Bonjour github....<p/>
 - 🔭 I’m currently working on ...
