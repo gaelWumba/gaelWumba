@@ -29,9 +29,9 @@
     <a href="https://github.com/search?q=user%3AgaelWumba+framework%3Areact"><img alt="Next" src="https://img.shields.io/badge/Next-20232a.svg?logo=next&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Laravel.js-404d59.svg?logo=laravel&logoColor=red"></a>
+      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel.js-404d59.svg?logo=laravel&logoColor=red"></a>
+      <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-7952B3.svg?logo=tailwindcss&logoColor=blue"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-
   </p>
   
   
