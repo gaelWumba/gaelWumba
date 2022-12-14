@@ -1,7 +1,6 @@
 <h1> 
   Gael WUMBA BUATU
 </h1>
-<img src="https://www.tripwire.com/sites/default/files/Foundational-Activities-for-Secure-Software-Development.jpg" width="600" height="250" />
 <img src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="400"/>
 
 **`Mobile and Front end developper`**
