@@ -1,4 +1,6 @@
-<h1 align="center">Gael WUMBA BUATU</h1>
+<h1 align="center">
+ <img align="left" src="blob:null/ed38bd56-144d-4d71-a990-0981e42d9d9a" />
+ Gael WUMBA BUATU</h1>
  
 **`Mobile and Front end developper`**
  
