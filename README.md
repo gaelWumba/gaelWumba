@@ -22,7 +22,7 @@
     <a href="https://github.com/search?q=user%3AgaelWumba+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   </p>
   
-  <h3><img align="left" src="https://img.icons8.com/pastel-glyph/64/FA5252/code--v1.png" width="30" height="30"/>Framework & Libreries</h3>
+  <h3><img align="left" src="https://img.icons8.com/pastel-glyph/64/FA5252/code--v1.png" width="30" height="30"/>Frameworks</h3>
   
   <p>
       <a href="https://github.com/search?q=user%3AgaelWumba+framework%3Areact"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
