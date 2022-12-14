@@ -2,13 +2,15 @@
  
  **`Mobile and Front end developper`**
  
-<img src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="400"/>
+<p>
+<img align="left" src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="400"/>
+
+</p>
 
 
 
 
-
-<p>Bonjour github....<p/>
+<p align="center">Bonjour github....<p/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
