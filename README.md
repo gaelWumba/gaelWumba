@@ -14,7 +14,7 @@
 </p>
 
 <details align="center"> 
-  <summary><img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/placeholder-thumbnail-xml.png" width="30" height="30"/><h2>Mes Outils</h2></summary>
+  <summary><h2><img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/placeholder-thumbnail-xml.png" width="30" height="30"/>Mes Outils</h2></summary>
   <h3><img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/placeholder-thumbnail-xml.png" width="30" height="30"/> Langages</h3>
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
