@@ -1,4 +1,4 @@
- <h1 align="left">Gael WUMBA BUATU</h1>
+ <h1 align="center">Gael WUMBA BUATU</h1>
  
  **`Mobile and Front end developper`**
  
