@@ -1,5 +1,5 @@
 <h1 align="center">
- <img align="left" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-developer-web-development-flaticons-lineal-color-flat-icons-6.png"/>
+ <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-developer-web-development-flaticons-lineal-color-flat-icons-6.png"/>
  Gael WUMBA BUATU</h1>
  
 **`Mobile and Front end developper`**
