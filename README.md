@@ -2,13 +2,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Gael_wum"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/50/FA5252/twitter.png"/></a>
   <a href="https://www.linkedin.com/in/gael-wumba-buatu/"><img width="32px" alt="Linkedin" title="Let's work" src="https://img.icons8.com/ios-filled/50/FA5252/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src=""/></a>
 </p>
  
 **`Mobile and Front end developper`**
