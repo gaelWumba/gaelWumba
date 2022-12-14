@@ -26,7 +26,7 @@
   <p>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=orange"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=yellow"></a>
   </p>
  </details>
  
