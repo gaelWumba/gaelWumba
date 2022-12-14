@@ -1,5 +1,4 @@
 <h1> 
-  <img src="https://www.pngfind.com/pngs/m/454-4540593_thinking-black-cartoon-guy-using-a-computer-cartoon.png" height="40"/> 
   Gael WUMBA BUATU
 </h1>
 <img src="https://www.tripwire.com/sites/default/files/Foundational-Activities-for-Secure-Software-Development.jpg" width="600" height="250" />
