@@ -3,6 +3,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/Gael_wum"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/50/FA5252/twitter.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/gael-wumba-buatu/"><img width="32px" alt="Linkedin" title="Let's work" src="https://img.icons8.com/ios-filled/50/FA5252/linkedin.png"/></a>
 </p>
  
