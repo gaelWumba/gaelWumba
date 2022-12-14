@@ -8,7 +8,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/gael-wumba-buatu/"><img width="32px" alt="Linkedin" title="Let's work" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
 </p>
  
 **`Mobile and Front end developper`**
