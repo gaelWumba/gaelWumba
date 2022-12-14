@@ -17,7 +17,7 @@
   <summary><h2>Mes Outils</h2></summary>
   <h3><img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/placeholder-thumbnail-xml.png" width="30" height="30"/> Langages</h3>
   <p>
-      <a href="https://github.com/search?q=user%3AgaelWumba+language%3Ajavascript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AgaelWumba+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   </p>
  </details>
  
