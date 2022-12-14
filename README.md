@@ -1,5 +1,7 @@
+ <p>
  <img align="left" src="https://qph.cf2.quoracdn.net/main-qimg-f1949afd04e513a348f3c57c51037f16" />
  <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-f1949afd04e513a348f3c57c51037f16" />
+ </p>
 
  <h1 align="center">Gael WUMBA BUATU</h1>
  
