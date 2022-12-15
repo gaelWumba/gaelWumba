@@ -14,11 +14,7 @@
 </p>
 
 <h2>You can't build the world without having some imagination</h2>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor eget dolor morbi non arcu risus. Mi eget mauris pharetra et ultrices. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Pulvinar sapien et ligula ullamcorper malesuada proin. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Diam ut venenatis tellus in. Neque viverra justo nec ultrices dui sapien eget mi. Tincidunt praesent semper feugiat nibh. Pellentesque id nibh tortor id aliquet. Adipiscing at in tellus integer feugiat scelerisque varius morbi. Et tortor at risus viverra adipiscing at in tellus.
 
-Id diam vel quam elementum. Mattis enim ut tellus elementum sagittis. Vel quam elementum pulvinar etiam non quam lacus. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Auctor augue mauris augue neque gravida in fermentum. In hac habitasse platea dictumst vestibulum. Posuere morbi leo urna molestie at elementum eu facilisis. Venenatis urna cursus eget nunc scelerisque. In egestas erat imperdiet sed. Eget dolor morbi non arcu risus. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Velit aliquet sagittis id consectetur purus. At risus viverra adipiscing at in tellus integer feugiat.
-</p>
 
 <details align="center"> 
   <summary><h2><img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/business.png" width="30" height="30"/>My Tools</h2></summary>
