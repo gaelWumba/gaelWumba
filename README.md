@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  </details>
  
  <details open align="left"> 
-  <summary><h2><img align="left" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-project-status-computer-programming-flaticons-flat-flat-icons.png" width="30" height="30"/>My Top Projects</h2></summary>
+  <summary><h2><img align="left" src="https://img.icons8.com/external-prettycons-solid-prettycons/60/FA5252/external-coding-education-prettycons-solid-prettycons.png" width="30" height="30"/>My Top Projects</h2></summary>
 
   <p align="left">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
