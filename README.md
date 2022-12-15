@@ -11,7 +11,6 @@
  
 <p>
 <img align="left" src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="400"/>
-</p>
 
 <p>
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time.
@@ -48,9 +47,7 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6F00.svg?logo=firebase&logoColor=white"></a>
   </p>
  </details>
- 
- 
- 
+ </p>
  
  <details open align="left"> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -71,3 +68,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+ 
+ 
+ 
+ 
+ 
