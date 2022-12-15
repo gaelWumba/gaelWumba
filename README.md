@@ -14,7 +14,7 @@
 </p>
 
 <h2>You can't build the world without having some imagination</h2>
-<p>
+<p align="left">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor eget dolor morbi non arcu risus. Mi eget mauris pharetra et ultrices. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Pulvinar sapien et ligula ullamcorper malesuada proin. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Diam ut venenatis tellus in. Neque viverra justo nec ultrices dui sapien eget mi. Tincidunt praesent semper feugiat nibh. Pellentesque id nibh tortor id aliquet. Adipiscing at in tellus integer feugiat scelerisque varius morbi. Et tortor at risus viverra adipiscing at in tellus.
 
 </p>
