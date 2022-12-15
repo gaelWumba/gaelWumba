@@ -52,7 +52,7 @@ I'm an indie full-stack developer and content creator building my version of the
  
  
  
- <details open> 
+ <details open align="left"> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
