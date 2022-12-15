@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <details align="center"> 
-  <summary><h2><img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/business.png" width="30" height="30"/>My Tools</h2></summary>
+  <summary><h2><img align="left" src="https://img.icons8.com/cotton/64/null/business--v1.png" width="30" height="30"/>My Tools</h2></summary>
   
   <h3><img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/placeholder-thumbnail-xml.png" width="30" height="30"/>Languages & workspace</h3>
   <p>
