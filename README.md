@@ -67,6 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+<details open>
   <summary><h2><img align="left" src="https://img.icons8.com/glyph-neue/64/FA5252/combo-chart.png" width="30" height="30"/>Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
