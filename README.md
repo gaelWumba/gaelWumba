@@ -17,7 +17,6 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 <p/>
 
-
 <details align="center"> 
   <summary><h2><img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/business.png" width="30" height="30"/>My Tools</h2></summary>
   
