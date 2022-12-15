@@ -92,18 +92,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="gaelWumba's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=gaelWumba&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#68](https://github.com/DenverCoder1/unedit-for-reddit/issues/68) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
+1. 🗣 Commented on [#68](https://github.com/gaelWumba/unedit-for-reddit/issues/68) in [gaelWumba/unedit-for-reddit](https://github.com/gaelWumba/unedit-for-reddit)
 2. 🗣 Commented on [#8605](https://github.com/badges/shields/issues/8605) in [badges/shields](https://github.com/badges/shields)
 3. 🗣 Commented on [#8605](https://github.com/badges/shields/issues/8605) in [badges/shields](https://github.com/badges/shields)
-4. 🎉 Merged PR [#57](https://github.com/DenverCoder1/professor-vector-discord-bot/pull/57) in [DenverCoder1/professor-vector-discord-bot](https://github.com/DenverCoder1/professor-vector-discord-bot)
-5. 🗣 Commented on [#60](https://github.com/DenverCoder1/table2ascii/issues/60) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 🎉 Merged PR [#57](https://github.com/gaelWumba/professor-vector-discord-bot/pull/57) in [gaelWumba/professor-vector-discord-bot](https://github.com/gaelWumba/professor-vector-discord-bot)
+5. 🗣 Commented on [#60](https://github.com/gaelWumba/table2ascii/issues/60) in [gaelWumba/table2ascii](https://github.com/gaelWumba/table2ascii)
 <!--END_SECTION:activity-->
 
 </details>
