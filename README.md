@@ -77,7 +77,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="https://github.com/gaelWumba/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gaelWumba's streak" src="https://streak-stats.demolab.com/?user=gaelWumba&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
