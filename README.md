@@ -13,7 +13,7 @@
 <img align="left" src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="200"/>
 </p>
 
-<h2>You can't build the world without having some imagination</h2>
+<h2>You can't build the world without having a bit of imaginations</h2>
 <p width="32px" align="left">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor eget dolor morbi non arcu risus. Mi eget mauris pharetra et ultrices. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Pulvinar sapien et ligula ullamcorper malesuada proin. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Diam ut venenatis tellus in. Neque viverra justo nec ultrices dui sapien eget mi. Tincidunt praesent semper feugiat nibh. Pellentesque id nibh tortor id aliquet. Adipiscing at in tellus integer feugiat scelerisque varius morbi. Et tortor at risus viverra adipiscing at in tellus.
 
@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/gaelWumba?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details open>
