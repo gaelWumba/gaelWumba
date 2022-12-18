@@ -57,15 +57,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <p align="left">
      <a href="https://github.com/gaelWumba/SONO"><img width="278" src="" alt="SONO"></a>
     
-    <a href="https://github.com/gaelWumba/readme-typing-svg"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="" alt="Connect 4"></a>
     
-    <a href="https://github.com/gaelWumba/custom-icon-badges"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin?username=gaelWumba&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/gaelWumba/minga"><img width="278" src="" alt="Minga"></a>
     
-    <a href="https://github.com/gaelWumba/unicode-formatter"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/gaelWumba/wysiwyg"><img width="278" src="" alt="wysiwyg"></a>
     
-    <a href="https://github.com/gaelWumba/unedit-for-reddit"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/gaelWumba/cineMax"><img width="278" src="" alt="cineMax"></a>
     
-    <a href="https://github.com/gaelWumba/github-readme-youtube-cards"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/gaelWumba/"><img width="278" src=""></a>
 
   </p>
 
