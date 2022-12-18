@@ -59,18 +59,16 @@
   <summary><h2><img align="left" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/null/external-coding-computer-technology-itim2101-lineal-color-itim2101.png" width="30" height="30"/>My Top Projects</h2></summary>
 
   <p align="left">
-     <a href="https://github.com/gaelWumba/SONO"><img width="278" src="{"a":5,"d":"B","h":"www.canva.com","c":"DAFVJ-poXA4","i":"ZYKEYNO-rqo9l5YKSdIQxw","b":1671404409418,"A?":"A","A":{"C":"#0f2a37"},"B":1920,"C":1080}" alt="SONO"></a>
+     <a href="" alt="SONO"></a>
     
-    <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="https://icons8.com/mega-creator/illustration/639fa61e206d5d00145427ac" alt="Connect 4"></a>
+    <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="" alt="Connect-4"></a>
     
-    <a href="https://github.com/gaelWumba/minga"><img width="278" src="" alt="Minga"></a>
+    <a href="https://github.com/gaelWumba/minga"><img width="278" src="" alt="Minga" alt="Minga"></a>
     
-    <a href="https://github.com/gaelWumba/wysiwyg"><img width="278" src="" alt="wysiwyg"></a>
+    <a href="https://github.com/gaelWumba/wysiwyg"><img width="278" src="" alt="wysiwyg" alt="wysiwyg"></a>
     
-    <a href="https://github.com/gaelWumba/cineMax"><img width="278" src="" alt="cineMax"></a>
+    <a href="https://github.com/gaelWumba/cineMax"><img width="278" src="" alt="cineMax" alt="cineMax"></a>
     
-    <a href="https://github.com/gaelWumba/"><img width="278" src=""></a>
-
   </p>
 
   <a href="https://github.com/gaelWumba?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
