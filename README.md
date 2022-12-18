@@ -18,8 +18,10 @@
   <p>build the world</p>
   <p>without having</p>
   <p>a bit of</p>
+ </p>
+ 
   **`IMAGINATIONS`**
-</p>
+
 
 <details align="center"> 
   <summary><h2><img align="left" src="https://img.icons8.com/ios/50/000000/business.png" width="30" height="30"/>My Tools</h2></summary>
