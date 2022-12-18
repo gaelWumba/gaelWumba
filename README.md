@@ -10,10 +10,14 @@
 **`Mobile and Front end developper`**
  
 <p>
-<img align="left" src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="600"/>
+<img align="left" src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="200"/>
 </p>
 
+<h2>You can't build the world without having a bit of imaginations</h2>
+<p width="32px" align="left">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor eget dolor morbi non arcu risus. Mi eget mauris pharetra et ultrices. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Pulvinar sapien et ligula ullamcorper malesuada proin. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Diam ut venenatis tellus in. Neque viverra justo nec ultrices dui sapien eget mi. Tincidunt praesent semper feugiat nibh. Pellentesque id nibh tortor id aliquet. Adipiscing at in tellus integer feugiat scelerisque varius morbi. Et tortor at risus viverra adipiscing at in tellus.
 
+</p>
 
 <details align="center"> 
   <summary><h2><img align="left" src="https://img.icons8.com/ios/50/000000/business.png" width="30" height="30"/>My Tools</h2></summary>
@@ -51,12 +55,17 @@
   <summary><h2><img align="left" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/null/external-coding-computer-technology-itim2101-lineal-color-itim2101.png" width="30" height="30"/>My Top Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/gaelWumba/github-readme-streak-stats"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    
+    <a href="https://github.com/gaelWumba/readme-typing-svg"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    
+    <a href="https://github.com/gaelWumba/custom-icon-badges"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin?username=gaelWumba&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    
+    <a href="https://github.com/gaelWumba/unicode-formatter"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    
+    <a href="https://github.com/gaelWumba/unedit-for-reddit"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    
+    <a href="https://github.com/gaelWumba/github-readme-youtube-cards"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
 
   </p>
 
