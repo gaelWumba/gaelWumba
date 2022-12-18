@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <p align="left">
      <a href="https://github.com/gaelWumba/SONO"><img width="278" src="{"a":5,"d":"B","h":"www.canva.com","c":"DAFVJ-poXA4","i":"ZYKEYNO-rqo9l5YKSdIQxw","b":1671404409418,"A?":"A","A":{"C":"#0f2a37"},"B":1920,"C":1080}" alt="SONO"></a>
     
-    <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="" alt="Connect 4"></a>
+    <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="https://icons8.com/mega-creator/illustration/639fa61e206d5d00145427ac" alt="Connect 4"></a>
     
     <a href="https://github.com/gaelWumba/minga"><img width="278" src="" alt="Minga"></a>
     
