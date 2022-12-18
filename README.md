@@ -14,11 +14,11 @@
 </p>
 
 <p width="32px" align="left">
-  <h2>You can't</h2>
-  <h2>build the world</h2>
-  <h2>without having</h2>
-  <h2>a bit of</h2>
-  <h1>IMAGINATIONS</h1>
+  <p>You can't</p>
+  <p>build the world</p>
+  <p>without having</p>
+  <p>a bit of</p>
+  **`IMAGINATIONS`**
 </p>
 
 <details align="center"> 
