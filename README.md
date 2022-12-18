@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <summary><h2><img align="left" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/null/external-coding-computer-technology-itim2101-lineal-color-itim2101.png" width="30" height="30"/>My Top Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/gaelWumba/github-readme-SONO"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=github-readme-SONO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-SONO"></a>
+    <a href="https://github.com/gaelWumba/SONO"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=SONO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SONO"></a>
     
     <a href="https://github.com/gaelWumba/readme-typing-svg"><img width="278" src="https://gaelWumba-github-readme-stats.vercel.app/api/pin/?username=gaelWumba&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     
