@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <summary><h2><img align="left" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/null/external-coding-computer-technology-itim2101-lineal-color-itim2101.png" width="30" height="30"/>My Top Projects</h2></summary>
 
   <p align="left">
-     <a href="https://github.com/gaelWumba/SONO"><img width="278" src="" alt="SONO"></a>
+     <a href="https://github.com/gaelWumba/SONO"><img width="278" src="{"a":5,"d":"B","h":"www.canva.com","c":"DAFVJ-poXA4","i":"ZYKEYNO-rqo9l5YKSdIQxw","b":1671404409418,"A?":"A","A":{"C":"#0f2a37"},"B":1920,"C":1080}" alt="SONO"></a>
     
     <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="" alt="Connect 4"></a>
     
