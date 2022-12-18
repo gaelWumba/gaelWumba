@@ -59,7 +59,7 @@
   <summary><h2><img align="left" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/null/external-coding-computer-technology-itim2101-lineal-color-itim2101.png" width="30" height="30"/>My Top Projects</h2></summary>
 
   <p align="left">
-     <a href="" alt="SONO"></a>
+     <a href="https://github.com/gaelWumba/sono" alt="SONO"><img width="278" src="" alt="SONO"></a>
     
     <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="" alt="Connect-4"></a>
     
