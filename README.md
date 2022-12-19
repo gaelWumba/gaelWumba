@@ -62,6 +62,7 @@
     <a href="https://github.com/gaelWumba/sono" alt="SONO"><img width="278" src="" alt="SONO"></a>
     
     <a href="https://github.com/gaelWumba/sono" alt="SONO"><img width="278" src="" alt="SONO"></a>
+    
     <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="" alt="Connect-4"></a>
     
     <a href="https://github.com/gaelWumba/minga"><img width="278" src="" alt="Minga" alt="Minga"></a>
