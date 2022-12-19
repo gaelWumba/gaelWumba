@@ -61,8 +61,8 @@
   <p align="left">
     <a href="https://github.com/gaelWumba/sono" alt="SONO"><img src="" width="30" height="30" alt="SONO"/></a>
     <a href="https://github.com/gaelWumba/Connect-4" alt="CONNECT 4"><img src="" width="30" height="30" alt="CONNECT 4"/></a>
-    <a href="https://github.com/gaelWumba/sono" alt="SONO"><img src="" width="30" height="30" alt="SONO"/></a>
-    <a href="https://github.com/gaelWumba/sono" alt="SONO"><img src="" width="30" height="30" alt="SONO"/></a>
+    <a href="https://github.com/gaelWumba/slide" alt="SLIDE"><img src="" width="30" height="30" alt="SLIDE"/></a>
+    <a href="https://github.com/gaelWumba/wysiwyg" alt="WYSIWYG"><img src="" width="30" height="30" alt="WYSIWYG"/></a>
   </p>
 
   <a href="https://github.com/gaelWumba?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
