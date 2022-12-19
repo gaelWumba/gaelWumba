@@ -14,7 +14,7 @@
 </p>
 
 <p width="30px" align="left">
-  <p>You can't</p>
+  <h2>You can't</h2>
   <p>build the world</p>
   <p>without having</p>
   <p>a bit of</p>
