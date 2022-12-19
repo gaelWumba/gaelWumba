@@ -60,17 +60,9 @@
 
   <p align="left">
     <a href="https://github.com/gaelWumba/sono" alt="SONO"><img src="" width="30" height="30" alt="SONO"/></a>
-    
-    <a href="https://github.com/gaelWumba/Connect-4" alt="Connect-4"></a>
-    
-    <a href="https://github.com/gaelWumba/Connect-4"></a>
-    
-    <a href="https://github.com/gaelWumba/minga"></a>
-    
-    <a href="https://github.com/gaelWumba/wysiwyg"></a>
-    
-    <a href="https://github.com/gaelWumba/cineMax"></a>
-    
+    <a href="https://github.com/gaelWumba/sono" alt="SONO"><img src="" width="30" height="30" alt="SONO"/></a>
+    <a href="https://github.com/gaelWumba/sono" alt="SONO"><img src="" width="30" height="30" alt="SONO"/></a>
+    <a href="https://github.com/gaelWumba/sono" alt="SONO"><img src="" width="30" height="30" alt="SONO"/></a>
   </p>
 
   <a href="https://github.com/gaelWumba?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
