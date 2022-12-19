@@ -59,17 +59,17 @@
   <summary><h2><img align="left" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/null/external-coding-computer-technology-itim2101-lineal-color-itim2101.png" width="30" height="30"/>My Top Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/gaelWumba/sono" alt="SONO"><img width="278" src="" alt="SONO"></a>
+    <a href="https://github.com/gaelWumba/sono" alt="SONO"></a>
     
-    <a href="https://github.com/gaelWumba/Connect-4" alt="Connect-4"><img width="278" src="" alt="Connect-4"></a>
+    <a href="https://github.com/gaelWumba/Connect-4" alt="Connect-4"></a>
     
-    <a href="https://github.com/gaelWumba/Connect-4"><img width="278" src="" alt="Connect-4"></a>
+    <a href="https://github.com/gaelWumba/Connect-4"></a>
     
-    <a href="https://github.com/gaelWumba/minga"><img width="278" src="" alt="Minga" alt="Minga"></a>
+    <a href="https://github.com/gaelWumba/minga"></a>
     
-    <a href="https://github.com/gaelWumba/wysiwyg"><img width="278" src="" alt="wysiwyg" alt="wysiwyg"></a>
+    <a href="https://github.com/gaelWumba/wysiwyg"></a>
     
-    <a href="https://github.com/gaelWumba/cineMax"><img width="278" src="" alt="cineMax" alt="cineMax"></a>
+    <a href="https://github.com/gaelWumba/cineMax"></a>
     
   </p>
 
