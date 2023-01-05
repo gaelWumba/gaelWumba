@@ -62,7 +62,7 @@
 
   <p align="left">
     <a href="https://github.com/gaelWumba/Coolify" alt="CooliFy"><img src="" width="30" height="30" alt="CooliFy"/></a>
-    <a href="https://github.com/gaelWumba/Connect-4" alt="CONNECT 4"><img src="" width="30" height="30" alt="CONNECT 4"/></a>
+    <a href="https://github.com/gaelWumba/Connect-4" alt="CONNECT-4"><img src="" width="30" height="30" alt="CONNECT-4"/></a>
     <a href="https://github.com/gaelWumba/slide" alt="SLIDE"><img src="" width="30" height="30" alt="SLIDE"/></a>
     <a href="https://github.com/gaelWumba/wysiwyg" alt="WYSIWYG"><img src="" width="30" height="30" alt="WYSIWYG"/></a>
   </p>
