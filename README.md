@@ -1,7 +1,13 @@
-<h1 align="center">Gael WUMBA BUATU</h1>
+<h1 align="center">
+  
+  Gael WUMBA BUATU
+
+  
+  **`Mobile and Front end developper`**
+
+</h1>
 
 
-**`Mobile and Front end developper`**
 
 
 <!-- Social icons section -->
