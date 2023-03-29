@@ -22,14 +22,13 @@
   <a href="https://www.linkedin.com/in/gael-wumba-buatu/"><img width="32px" alt="Linkedin" title="Let's work" src="https://img.icons8.com/ios-filled/50/FA5252/linkedin.png"/></a>
 </p>
   
-<p width="30px" align="left">
+<p align="center" width="30px" align="left">
   <h2>Set your imagination FREE</h2>
-  <p>You can't build the world</p>
-  <p>without having a bit of</p>
-</p>
-
-**`IMAGINATIONS`**
+  <p>You can't build the world without having a bit of</p>
   
+  **`IMAGINATIONS`**
+
+</p>  
 
 
 <details align="center"> 
