@@ -1,4 +1,6 @@
 <h1 align="center">Gael WUMBA BUATU</h1>
+  **`Mobile and Front end developper`**
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -18,8 +20,6 @@
  </p>
   **`IMAGINATIONS`**
   
-  **`Mobile and Front end developper`**
-
 
 
 <details align="center"> 
