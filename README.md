@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img align="left" src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="180"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2Fc058155849a0fc76e61a57d15a2896f7%2Ftumblr_pm7mywwE1j1uzwghz_500.gifv&f=1&nofb=1&ipt=a8d6fc4f0af9197d9fa3eea69055ae52de41ca37c5bb7da4b44754c8641fbbb8&ipo=images" height="180"/>
 </p>
 
 
