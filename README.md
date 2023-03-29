@@ -3,7 +3,6 @@
   Gael WUMBA BUATU
 
   **`Mobile and Front end developper`**
-
 </h2>
 
 
@@ -17,7 +16,7 @@
 </p>
   
 <p>
-<img align="left" src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="150"/>
+<img align="left" src="https://blush.design/api/download?shareUri=2Qtj3TVgHNPFR9Ez&c=Bottom_0%7E342a83_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7Eff4133&w=800&h=800&fm=png" height="180"/>
 </p>
 
 <p width="30px" align="left">
@@ -25,7 +24,6 @@
   <p>You can't build the world</p>
   <p>without having a bit of</p>
 </p>
-
 
 **`IMAGINATIONS`**
   
