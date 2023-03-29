@@ -1,6 +1,4 @@
 <h1 align="center">Gael WUMBA BUATU</h1>
-  **`Mobile and Front end developper`**
-
 
 <!-- Social icons section -->
 <p align="center">
@@ -17,7 +15,9 @@
   <h2>Set your imagination FREE</h2>
   <p>You can't build the world</p>
   <p>without having a bit of</p>
- </p>
+    **`Mobile and Front end developper`**
+
+</p>
   **`IMAGINATIONS`**
   
 
