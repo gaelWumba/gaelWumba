@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2Fc058155849a0fc76e61a57d15a2896f7%2Ftumblr_pm7mywwE1j1uzwghz_500.gifv&f=1&nofb=1&ipt=a8d6fc4f0af9197d9fa3eea69055ae52de41ca37c5bb7da4b44754c8641fbbb8&ipo=images" width="500"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2Fc058155849a0fc76e61a57d15a2896f7%2Ftumblr_pm7mywwE1j1uzwghz_500.gifv&f=1&nofb=1&ipt=a8d6fc4f0af9197d9fa3eea69055ae52de41ca37c5bb7da4b44754c8641fbbb8&ipo=images" width="600"/>
 </p>
 <h3 align="center">
   
@@ -21,14 +21,6 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/gael-wumba-buatu/"><img width="32px" alt="Linkedin" title="Let's work" src="https://img.icons8.com/ios-filled/50/FA5252/linkedin.png"/></a>
 </p>
-  
-<p align="center" width="30px" align="left">
-  <h2>Set your imagination FREE</h2>
-  <p>You can't build the world without having a bit of</p>
-  
-  **`IMAGINATIONS`**
-
-</p>  
 
 
 <details align="center"> 
