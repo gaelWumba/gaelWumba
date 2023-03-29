@@ -1,11 +1,10 @@
-<h1 align="center">
+<h2 align="center">
   
   Gael WUMBA BUATU
 
-  
   **`Mobile and Front end developper`**
 
-</h1>
+</h2>
 
 
 
