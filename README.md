@@ -15,10 +15,8 @@
 
 <p width="30px" align="left">
   <h2>Set your imagination FREE</h2>
-  <p>You can't</p>
-  <p>build the world</p>
-  <p>without having</p>
-  <p>a bit of</p>
+  <p>You can't build the world</p>
+  <p>without having</p><p>a bit of</p>
  </p>
  
  
