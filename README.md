@@ -15,6 +15,10 @@
 </h3>
 
 
+<h3 align="center">
+  I’m currently looking for an internship position.
+</h3>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/Gael_wum"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/50/FA5252/twitter.png"/></a>
