@@ -16,7 +16,7 @@
 
 
 <h3 align="center">
-  I’m currently looking for an internship position.
+  👉🏿 I’m currently looking for an internship position.👈🏿
 </h3>
 
 <!-- Social icons section -->
