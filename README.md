@@ -70,7 +70,7 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3><img src="https://img.icons8.com/sf-regular/48/FA5252/github.png" width="30" height="30"/> GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
