@@ -2,7 +2,7 @@
   
   Gael WUMBA BUATU
 
-  **`Mobile and Front end developper`**
+  **`Mobile and Frontend developper`**
 </h2>
 
 
