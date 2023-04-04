@@ -61,7 +61,7 @@
 <details open>
   <summary><h2><img align="left" src="https://img.icons8.com/glyph-neue/64/FA5252/combo-chart.png" width="30" height="30"/>Github Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3>🔴 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/gaelWumba/github-readme-streak-stats -->
   <p>
