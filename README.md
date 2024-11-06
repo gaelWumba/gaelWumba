@@ -39,7 +39,7 @@
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-0081CB.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-E24462.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Jetpack" src="https://img.shields.io/badge/Jetpack-404d59.svg?logo=express&logoColor=white"></a>
   </p>
   
