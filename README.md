@@ -35,15 +35,8 @@
     <a href="https://github.com/search?q=user%3AgaelWumba+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3AgaelWumba+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AgaelWumba+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-  </p>
-  
-  <h3><img align="left" src="https://img.icons8.com/pastel-glyph/64/FA5252/code--v1.png" width="30" height="30"/>Frameworks</h3>
-  
-  <p>
-      <a href="https://github.com/search?q=user%3AgaelWumba+framework%3Areact"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://github.com/search?q=user%3AgaelWumba+framework%3Areact"><img alt="Next" src="https://img.shields.io/badge/Next-20232a.svg?logo=next&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-0081CB.svg?logo=tailwindcss&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-0081CB.svg?logo=tailwindcss&logoColor=white"></a>
   </p>
   
   
